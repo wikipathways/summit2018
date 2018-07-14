@@ -1,2 +1,2 @@
-# WikiPathways 10 Summit
+# WikiPathways Summit 2018
 
